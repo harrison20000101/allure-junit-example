@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "tests": [
+    {
+      "id": "1",
+      "selector": "SimpleTest.check2"
+    },
+    {
+      "id": "9",
+      "selector": "SimpleTest.check9"
+    }
+  ]
+}

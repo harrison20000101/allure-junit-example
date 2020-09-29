@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "tests": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "6",
+      "selector": "com.test.PackageTest.check6"
+    },
+    {
+      "id": "5",
+      "selector": "com.test.PackageTest.check5"
+    },
+    {
+      "id": "7",
+      "selector": "com.test.PackageTest.check7"
+    }
+  ]
+}
